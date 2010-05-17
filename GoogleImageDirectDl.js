@@ -3,6 +3,7 @@
 // @namespace      http://abhiomkar.in
 // @description    Google Image Direct Download Button for each search result image in Google Image Result Page
 // @include        http://*images.google.com/images*
+// @include        http://*google.co*/*
 // @version        0.1
 // ==/UserScript==
 
